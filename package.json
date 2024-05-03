@@ -1,0 +1,20 @@
+{
+  "name": "BackEndWebPeto",
+  "version": "1.0.0",
+  "description": "este é um teste",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maria",
+  "license": "ISC",
+  "keywords": [
+    "app",
+    "teste"
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3"
+  }
+}
